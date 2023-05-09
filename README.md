@@ -24,6 +24,8 @@ I describe myself as a person with initiative and who always gives his best to g
   <img src="https://user-images.githubusercontent.com/33834543/139046231-768e58fd-7953-4e9d-9485-9a6e0c58b4db.png" width="100" height="100">
   <img src="https://user-images.githubusercontent.com/33834543/139046252-53a4f483-fdb3-410a-827b-f89ade9db69f.png" width="100" height="100">
   <img src="https://user-images.githubusercontent.com/33834543/139048242-d255e6c4-ebbc-457f-b577-88d2015c2c4d.png" width="100" height="100">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="100" height="100">
+  
 </p>
 
 ### Frameworks
