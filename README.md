@@ -41,6 +41,7 @@ I describe myself as a person with initiative and who always gives his best to g
 <p>
   <img src="https://user-images.githubusercontent.com/33834543/139048866-083ff725-b228-4f50-934b-9af5ade888c5.png" width="150" height="100">
   <img src="https://user-images.githubusercontent.com/33834543/139049700-dbc2d893-fbd7-494e-844c-d5354eee15d9.png" width="100" height="100">
+  <img src="https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png" width="100" height="100">
 </p>
 
 
