@@ -4,7 +4,6 @@ I describe myself as a person with initiative and who always gives his best to g
 
 - 👦 I’m Manuel Lemos.
 - 📖 I am currently finishing my degree in Computer Engineering.
-- 🔭 I’m currently looking for my first job.
 - 👍 I like Software Development.
 - 👀 I’m interested in learn more
 - 📫 How to reach me: manueljlemos99@gmail.com or 
